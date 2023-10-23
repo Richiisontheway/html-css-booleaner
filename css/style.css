@@ -13,3 +13,8 @@ header{
     font-size: smaller;
 
 }
+
+.post-photo{
+
+    display: block;
+}
