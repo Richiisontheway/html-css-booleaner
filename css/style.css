@@ -13,15 +13,41 @@ header{
     font-size: smaller;
 
 }
-
+#titolo{
+    width: 150px; 
+    height: 100px;
+}
 .post-photo{
 
     display: block;
 
 }
 
-.finale{
+.grigio{
     color: gray;
+}
+
+#testo{
+    background-color: yellow;
+}
+
+#table-collapse{
+    border-collapse: collapse;
+}
+
+.color-background{
+    background-color: darkcyan;
+
+}
+
+.ttt{
+    width:50%;
+}
+
+.tabella{
+    text-align: left;
+    background-color: blue;
+    color: white;
 }
 
 .contain{
